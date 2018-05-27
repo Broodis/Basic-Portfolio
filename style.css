@@ -155,3 +155,108 @@ input[type=submit]:hover {
 	border-width: 1px;
 	border-color: #cccccc;
 }
+
+.portcontainer {
+	border-radius: 5px;
+    background-color: #ffffff;
+    padding: 30px;
+    padding-top: 13px;
+    height: 572px;
+    width: 960px;
+    position: fixed;
+    top: 140px;
+    font-family: 'Arial', 'Helvetica Neue', Helvetica, sans-serif;
+    color: #ffffff;
+    margin-left: 441px;
+	margin-right: 450px;
+	border-style: solid;
+	border-width: 1px;
+	border-color: #cccccc;
+}
+
+.portimage1 {
+	position: relative;
+	text-align: center;
+	border-style: solid;
+	border-width: 1px;
+	border-color: #cccccc;
+	float: left;
+	margin: 19px;
+}
+
+.portimage2 {
+	text-align: center;
+	border-style: solid;
+	border-width: 1px;
+	border-color: #cccccc;
+	float: left;
+	margin: 19px;
+	position: relative;
+}
+.portimage3 {
+	text-align: center;
+	border-style: solid;
+	border-width: 1px;
+	border-color: #cccccc;
+	float: left;
+	margin: 19px;
+	position: relative;
+}
+
+.portimage4 {
+	text-align: center;
+	border-style: solid;
+	border-width: 1px;
+	border-color: #cccccc;
+	float: left;
+	margin: 19px;
+	position: relative;
+}
+
+.portimage5 {
+	text-align: center;
+	border-style: solid;
+	border-width: 1px;
+	border-color: #cccccc;
+	float: left;
+	margin: 19px;
+	position: relative;
+}
+
+.portimage6 {
+	text-align: center;
+	border-style: solid;
+	border-width: 1px;
+	border-color: #cccccc;
+	float: left;
+	margin: 19px;
+	position: relative;
+}
+
+.portimage7 {
+	text-align: center;
+	border-style: solid;
+	border-width: 1px;
+	border-color: #cccccc;
+	float: left;
+	margin: 19px;
+	position: relative;
+}
+
+.portimage8 {
+	text-align: center;
+	border-style: solid;
+	border-width: 1px;
+	border-color: #cccccc;
+	float: left;
+	margin: 19px;
+	position: relative;
+}
+
+.porttitles {
+	background: #4aaaa5;
+	text-align: center;
+	width: 201px;
+	position: absolute;
+	bottom: 4px;
+}
